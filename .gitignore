@@ -1,0 +1,6 @@
+*.png
+chromedriver
+*.html
+*.xml
+*.log
+**/.DS_Store
