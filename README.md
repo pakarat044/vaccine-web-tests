@@ -2,14 +2,11 @@
 > test the 3AM app  https://vaccine-haven.herokuapp.com/
 
 ## Testcast
-**Testcast 1**
-Visit the home page and verify 2 items on the home page.  Don't write tests that depend a lot on the DOM or CSS styles, because those may change.
+**Testcast 1**: Visit the home page and verify 2 items on the home page.  Don't write tests that depend a lot on the DOM or CSS styles, because those may change.
 
-**Testcast 2**
-Visit the home page, then click on (make a reservation button), and create a reservation.  Verify that the registration was created.
+**Testcast 2**: Visit the home page, then click on (make a reservation button), and create a reservation.  Verify that the registration was created.
 
-**Testcast 3**
-Cancel the reservation that you made in the previous test.
+**Testcast 3**: Cancel the reservation that you made in the previous test.
 
 | Test ID | Name                                                                | Result | Test case |
 |---------|---------------------------------------------------------------------|--------|-----------|
