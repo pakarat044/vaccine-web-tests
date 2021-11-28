@@ -29,6 +29,7 @@ pip3 install robotframework-seleniumlibrary
 ```
 
 ### Download Chromdriver and set path
+#### for Mac
 * check own chrome version
 
     * open chrome -> setting -> About Chrome -> *Version....*
